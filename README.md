@@ -1,5 +1,5 @@
 <!--Level 1: Simple bio and stats-->
-## Hi ,I'M Shriya
+## Hi ,I'm Shriya
 🎓 Electronics & Communication Engineering student<!--space-->
 
 👩🏻‍💻 Passionate about coding, web development, and exploring new technologies
