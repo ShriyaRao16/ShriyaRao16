@@ -1,6 +1,6 @@
 <!--Level 1: Simple bio and stats-->
 ## Hi ,I'm Shriya
-🎓 Electronics & Communication Engineering student at [SRMIST](https://www.srmist.edu.in/)<br/>
+🎓 Electronics & Communication Engineering student 
 👩🏻‍💻 Passionate about coding, web development, and exploring new technologies<br/>
 💭Currently learning different programming languages and diving deeper into the world of tech<br/>
 ✨ Always curious and open to learning, building, and collaborating!<br/>
