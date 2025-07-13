@@ -14,6 +14,10 @@
 🌌 Diving into quantum realms with the Quantum Computing Club<br/>
 💡 Power Electronics Society Member in the IEEE Student Branch<br/>
 📝 Merging creativity and tech as an Editorial Member in the Electronics Club
+
+## ☕👩🏼‍💻 Tech Talks & Coffee?  
+📧 [Email Me](mailto:shriyarao2024@gmail.com) • 💼 [LinkedIn](https://www.linkedin.com/in/shriya-rao-4773352bb)
+
   
 
  
