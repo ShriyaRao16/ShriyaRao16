@@ -17,6 +17,13 @@
 
 ## ☕👩🏼‍💻 Tech Talks & Coffee?  
 📧 [Email Me](mailto:shriyarao2024@gmail.com) • 💼 [LinkedIn](https://www.linkedin.com/in/shriya-rao-4773352bb)
+<!-- gif to the side!-->
+<img src="https://github.com/ShriyaRao16/ShriyaRao16/raw/main/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="180" align="right" align="top" alt="fun gif">
+<!-- for the space!--->
+
+
+
+
 
   
 
