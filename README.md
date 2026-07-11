@@ -21,7 +21,7 @@
 ## ☕👩🏼‍💻 Tech Talks & Coffee?  
 📧 [Email Me](mailto:shriyarao2024@gmail.com) • 💼 [LinkedIn](https://www.linkedin.com/in/shriya-rao-4773352bb)
 ## 💻 Most Used Languages
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ShriyaRao16&layout=compact&theme=tokyonight&card_width=350)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ShriyaRao16&layout=compact&theme=tokyonight&card_width=300)
 <img src="https://github.com/ShriyaRao16/ShriyaRao16/blob/main/ezgif-2a8ef502fd5305.gif?raw=true" width="180" align="right" align="top" alt="my Avatar">
 
 
