@@ -1,9 +1,11 @@
 <!--Level 1: Simple bio and stats-->
 ## Hi ,I'm Shriya
+<img src="https://github.com/ShriyaRao16/ShriyaRao16/blob/main/ezgif-2a8ef502fd5305.gif?raw=true" width="180" align="right" align="top" alt="my Avatar">
 🎓 Electronics & Communication Engineering student<br/>
 👩🏻‍💻 Passionate about coding, web development, and exploring new technologies<br/>
 💭Currently learning different programming languages and diving deeper into the world of tech<br/>
 ✨ Always curious and open to learning, building, and collaborating!<br/>
+
 
 
 # 💻 Tech Stack:
@@ -12,6 +14,7 @@
 # 🧭 My Exploration 
 <!-- gif to the side!-->
 <img src="https://github.com/ShriyaRao16/ShriyaRao16/raw/main/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="180" align="right" align="top" alt="fun gif">
+
 <!-- for the space!--->
 👥 Member of Team Rudra – SRM Mars Rover<br/>
 🌌 Diving into quantum realms with the Quantum Computing Club<br/>
@@ -20,7 +23,7 @@
 
 ## ☕👩🏼‍💻 Tech Talks & Coffee?  
 📧 [Email Me](mailto:shriyarao2024@gmail.com) • 💼 [LinkedIn](https://www.linkedin.com/in/shriya-rao-4773352bb)
-<img src="https://github.com/ShriyaRao16/ShriyaRao16/blob/main/ezgif-2a8ef502fd5305.gif?raw=true" width="180" align="right" align="top" alt="my Avatar">
+
 
 
 
